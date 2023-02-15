@@ -1,5 +1,4 @@
-# WebInterns
-Team 9
+# landingpage
 Create a landing page of the respected sector that was assigned
 Must include
 1 Navbar with Home, About, Contact, and Login
